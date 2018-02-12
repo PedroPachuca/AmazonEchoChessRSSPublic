@@ -17,3 +17,5 @@ Written in JavaScript.
 Written using Notepad++.
 
 Pedro Pachuca &copy; 2017
+
+NOTE: Copy of Private Repo with cleared keys for public use
